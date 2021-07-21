@@ -44,6 +44,7 @@ Status: "In Progress"
 #### Test records will be added to this section as tests are completed.
   
 ---  
+---
 #### test1 Summary of Results:  
 test1_Total_Question_Count: 4
 #####  
@@ -54,6 +55,18 @@ test1_Incorrect_Response_Count: 0
 test1_Percent_Correct: 100.00%
 #####  
 test1_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/data-ghoti/blob/main/static/userdata/courses/vspheretanzu101_vt7301/grade_report.pr1230.test1.md)"
+##### Pass or fail grades are not provided for individual tests. A passing grade for the course will be based on the cumulative average grade for all tests in the course.  
+---
+#### test2 Summary of Results:  
+test2_Total_Question_Count: 3
+#####  
+test2_Correct_Response_Count: 3
+#####  
+test2_Incorrect_Response_Count: 0
+#####  
+test2_Percent_Correct: 100.00%
+#####  
+test2_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/data-ghoti/blob/main/static/userdata/courses/vspheretanzu101_vt7301/grade_report.pr1233.test2.md)"
 ##### Pass or fail grades are not provided for individual tests. A passing grade for the course will be based on the cumulative average grade for all tests in the course.  
   
 ---  
