@@ -84,7 +84,7 @@ test3_Grade_Report_Url: "[Click Here](https://github.com/modernappsninjas/data-g
 ---  
 ### Course Certificate Of Completion
 
-Completion_Certificate: "Pending"  
+Completion_Certificate: "[Awarded](https://badgr.com/public/assertions/LT)"  
 #####
 ---
 ##### End of Member Course Record
